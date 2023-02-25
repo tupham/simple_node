@@ -1,0 +1,14 @@
+{
+    "name" : "simple_node_docker_travis",
+    "version" : "1.0.0",
+    "description": "Simple node to use Docker and travis",
+    "main": "server.js",
+    "scripts": {
+        "start": "node ./server.js"
+    },
+    "author": "Tu Pham",
+    "license": "ISC",
+    "dependencies": {
+
+    }
+}
